@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "mission-puzzles.gl.joinmc.link",
-          "assigned_srv": "mission-puzzles.gl.joinmc.link",
+          "assigned_domain": "documents-motors.gl.joinmc.link",
+          "assigned_srv": "documents-motors.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "ad442b3d-7a30-490a-9a2a-6f816504892d",
+          "id": "bd6b160d-a181-4184-8709-7c82a65d590a",
           "ip_hostname": "23.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 49099,
-          "port_start": 49098,
+          "port_end": 52071,
+          "port_start": 52070,
           "region": "global",
           "static_ip4": "147.185.221.23",
           "tunnel_ip": "2602:fbaf:0:1::17"
         },
         "status": "allocated"
       },
-      "created_at": "2024-11-05T06:15:42.563618Z",
+      "created_at": "2024-11-08T16:04:02.642480Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "92cde8ad-bd31-4e89-af71-94c0c53594dd",
+      "id": "747475f7-b471-4e7c-9525-5a1d9341a1ac",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "415aaa68-cd33-47ad-9333-20a17d725ede",
-          "agent_name": "from-key-19ea",
+          "agent_id": "98e471f8-dbeb-49f5-8b93-23cfb8b31477",
+          "agent_name": "server",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
